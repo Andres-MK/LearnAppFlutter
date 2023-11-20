@@ -1,4 +1,4 @@
-# app_finanzas
+# mis_finanzas_app
 
 A new Flutter project.
 

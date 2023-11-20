@@ -1,6 +1,6 @@
 {
-    "name": "app_finanzas",
-    "short_name": "app_finanzas",
+    "name": "mis_finanzas_app",
+    "short_name": "mis_finanzas_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
